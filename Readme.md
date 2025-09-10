@@ -10,4 +10,4 @@ Repo ini berisi tugas dan material yang digunakan untuk keperluan Praktikum Mobi
 
 ### Screenshot
 
-![Screenshoot](https://drive.google.com/file/d/1jqESpZTOQY5WouH934UBplPf73WITuZR/view?usp=drive_link)
+![Screenshot]<img src="https://github.com/anasshin/praktikum-mobile103/blob/main/screenshot/Tugas%201.png" witdh=300>
