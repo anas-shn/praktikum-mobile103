@@ -2,6 +2,10 @@
 
 Repo ini berisi tugas dan material yang digunakan untuk keperluan Praktikum Mobile
 
+Nama: Anas sholihin
+NIM: H1D023103
+Shift E -> F
+
 ### Tugas 1 Pertemuan 2
 
 - Menampilkan gambar
