@@ -2,7 +2,11 @@
 
 Repo ini berisi tugas dan material yang digunakan untuk keperluan Praktikum Mobile
 
-### Tugas 1 Pertemuan 2
+Nama : Anas Sholihin <br>
+NIM : H1D023103 <br>
+Shift : E > F
+
+## Tugas 1 Pertemuan 2
 
 - Menampilkan gambar
 - Menampilkan Text
@@ -10,4 +14,16 @@ Repo ini berisi tugas dan material yang digunakan untuk keperluan Praktikum Mobi
 
 ### Screenshot
 
-![Screenshot]<img src="https://github.com/anasshin/praktikum-mobile103/blob/main/screenshot/Tugas%201.png" witdh=300>
+![Screenshot](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_1.png)
+
+## Tugas 2 Pertemuan 3
+
+- Belajar ViewBinding dan Navigasi
+- Membuat Reusable Layout
+- Membuat Logic pada halaman2Activity
+
+### Video Hasil Tugas 2
+
+<!-- Masukkan URL video di dalam tanda kurung berikut: -->
+
+![Tugas_2](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_2.gif)
