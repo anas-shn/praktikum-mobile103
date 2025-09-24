@@ -25,3 +25,13 @@ Shift : E -> F
 ### Video Hasil Tugas 2
 
 ![Tugas_2](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/tugas_2.gif)
+
+## Tugas 3 Pertemuan 4
+
+- Belajar fetch api menggunakan gson
+- Membuat Reusable Layout
+- Membuat Model dan ModelView
+
+### Video Hasil Tugas 3
+
+![Tugas_3](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/tugas_3.gif)
