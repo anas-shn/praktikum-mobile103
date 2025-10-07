@@ -43,4 +43,4 @@ Shift : E -> F
 
 ### Video Hasil Tugas 4
 
-![Tugas_3](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_4.gif)
+![Tugas_3](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_4.mp4)
