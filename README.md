@@ -24,7 +24,7 @@ Shift : E -> F
 
 ### Video Hasil Tugas 2
 
-![Tugas_2](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/tugas_2.gif)
+![Tugas_2](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_2.gif)
 
 ## Tugas 3 Pertemuan 4
 
@@ -35,3 +35,12 @@ Shift : E -> F
 ### Video Hasil Tugas 3
 
 ![Tugas_3](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_3.gif)
+
+## Tugas 4 Pertemuan 5
+
+- Belajar menggunakan Bottomsheet
+- Belajar Fagment
+
+### Video Hasil Tugas 4
+
+![Tugas_3](https://github.com/anasshin/praktikum-mobile103/blob/main/docs/Tugas_4.gif)
